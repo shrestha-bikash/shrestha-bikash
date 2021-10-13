@@ -1,10 +1,10 @@
 ### Hi there, I am Bikash Shrestha - [Portfolio][portfolio] 👋
 
-## I am a Graduate Student, Research Assistant and Software Engineer !
+## I am a Graduate Student, Research Assistant and a Software Engineer !!!
 
 - 🔭 I’m currently working in the field of protein structure prediction.
-- 🌱 I’m currently learning everything in Data Science.
-- 👯 I’m looking for job at the moment.
+- 🌱 I’m currently learning everything related to Data Science.
+- 👯 I’m looking for a job at the moment.
 
 ### Connect with me:
 
