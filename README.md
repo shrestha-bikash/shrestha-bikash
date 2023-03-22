@@ -1,10 +1,6 @@
 ### Hi there, I am Bikash Shrestha - [Portfolio][portfolio] 👋
 
-## I am a Graduate Student, Research Assistant and a Software Engineer !!!
-
-- 🔭 I’m currently working in the field of protein structure prediction.
-- 🌱 I’m currently learning everything related to Data Science.
-- 👯 I’m looking for a job at the moment.
+## I am a Software Engineer and a Deep learning enthusiast!!!
 
 ### Connect with me:
 
